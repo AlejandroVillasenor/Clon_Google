@@ -1,2 +1,2 @@
 # Clon_Google
-Google main page-responisve
+Google main page-clone
